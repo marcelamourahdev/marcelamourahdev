@@ -34,6 +34,8 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelamourahdev/marcelamourahdev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelamourahdev/marcelamourahdev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcelamourahdev/marcelamourahdev/output/pacman-contribution-graph.svg">
+  <img src=".github/workflows/blip.png" height="30" alt="blip logo" />
+  <img width="12" />
 </picture>
 
 #
