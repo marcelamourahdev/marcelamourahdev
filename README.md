@@ -53,6 +53,51 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
 
 ---
 
+### 🎓 Formação Académica & Especializações
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎓 MBA em Engenharia de Software</h3>
+      <p><b>Universidade de São Paulo (USP)</b></p>
+      <p><i>Foco em arquitetura de microsserviços, qualidade de código, padrões de projeto e sistemas distribuídos de alta disponibilidade.</i></p>
+      <img src="https://img.shields.io/badge/USP-Pós--Graduação-002D62?style=flat-square&logo=google-scholar&logoColor=white" />
+      <img src="https://img.shields.io/badge/Conclusão-2026-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🧠 Pós-Graduação em Ciência de Dados & IA</h3>
+      <p><b>UNINTER</b></p>
+      <p><i>Modelagem preditiva, engenharia de dados, machine learning e integração de pipelines analíticos com aplicações backend.</i></p>
+      <img src="https://img.shields.io/badge/UNINTER-Especialização-003366?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Conclusão-2022-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>💻 Graduação em Análise e Desenvolvimento de Sistemas</h3>
+      <p><b>Faculdades Integradas Simonsen</b></p>
+      <p><i>Bases de engenharia de software, algoritmos, modelagem de dados relacionais e ciclo de desenvolvimento de sistemas.</i></p>
+      <img src="https://img.shields.io/badge/Simonsen-Graduação-darkred?style=flat-square" />
+      <img src="https://img.shields.io/badge/Conclusão-2018-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+  <summary><b>📜 Ver Certificados Técnicos & Cursos Adicionais</b> (Clique para expandir)</summary>
+  <br>
+
+  * 🤖 **Node.js: criando uma API Rest com Express e MongoDB** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+  * 🏛️ **Carreira Node.js: boas-vindas e primeiros passos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+  * ⚙️ **HTTP: entendendo a web por baixo dos panos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+  * 🗄️ **Git e GitHub: compartilhando e colaborando em projetos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+  * 🤖 **JavaScript: aprendendo a programar** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+</details>
+
+---
+
 <h3 align="left">Vamos+conversar:</h3>
 <div>
   <a href="https://discord.com/users/887414383381192745" target="_blank">
