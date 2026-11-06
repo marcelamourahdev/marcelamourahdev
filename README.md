@@ -46,9 +46,9 @@ Atualmente busco uma nova posição no mercado e sigo aberta a um bate-papo. ^^
   <img width="12" />
   <img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" height="30" alt="copilot logo" />
   <img width="12" />
-  <img src="./claude.png" height="30" alt="claude logo" />
+  <img src="./assets/images/claude.png" height="30" alt="claude logo" />
   <img width="12" />
-  <img src="./blip.png" height="30" alt="blip logo" />
+  <img src="./assets/images/blip.png" height="30" alt="blip logo" />
   <img width="12" />
 </div>
 
@@ -102,7 +102,7 @@ Atualmente busco uma nova posição no mercado e sigo aberta a um bate-papo. ^^
 
 | 🇧🇷 Versão em Português | 🇺🇸 English Version |
 | :---: | :---: |
-| <a href="./curriculo-pt.pdf" target="_blank" download><img src="https://img.shields.io/badge/Descarregar-PDF-238636?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="32" alt="Download PT" /></a> | <a href="./curriculo-en.pdf" target="_blank" download><img src="https://img.shields.io/badge/Download-PDF-1F6FEB?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="32" alt="Download EN" /></a> |
+| <a href="./assets/curriculo-pt.pdf" target="_blank" download><img src="https://img.shields.io/badge/Descarregar-PDF-238636?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="32" alt="Download PT" /></a> | <a href="./assets/curriculo-en.pdf" target="_blank" download><img src="https://img.shields.io/badge/Download-PDF-1F6FEB?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="32" alt="Download EN" /></a> |
 
 ---
 
