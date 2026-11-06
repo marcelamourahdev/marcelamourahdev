@@ -41,11 +41,9 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons:render.svg?color=white" height="30" alt="render logo" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height="30" alt="render logo" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" height="30" alt="copilot logo" />
-  <img width="12" />
-  <img src="./claude.png" height="30" alt="claude logo" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" height="30" alt="copilot logo" />
   <img width="12" />
   <img src="./blip.png" height="30" alt="blip logo" />
   <img width="12" />
