@@ -45,13 +45,15 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
   <img width="12" />
   <img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" height="30" alt="copilot logo" />
   <img width="12" />
-  <img src=".github/workflows/blip.png" height="30" alt="blip logo" />
+  <img src="./claude.png" height="30" alt="claude logo" />
+  <img width="12" />
+  <img src="./blip.png" height="30" alt="blip logo" />
   <img width="12" />
 </div>
 
 ---
 
-<h3 align="left">Vamos conversar:</h3>
+<h3 align="left">Vamos+conversar:</h3>
 <div>
   <a href="https://discord.com/users/887414383381192745" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
