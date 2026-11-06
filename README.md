@@ -51,6 +51,27 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
 
 ---
 
+<h3 align="left">Ferramentas:</h3>
+<div>
+  <!-- Discord -->
+<a href="https://discord.com/users/887414383381192745" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a> 
+<img width="12" />
+
+<!-- E-mail -->
+<a href="mailto:ma.devinf@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<img width="12" />
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/marcela-moura-125334179/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</div>
+<br />
+
 <br clear="both">
 
 <picture>
