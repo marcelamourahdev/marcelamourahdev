@@ -98,6 +98,13 @@ Atualmente busco uma nova posição no mercado e sigo aberta a um bate-papo. ^^
 </details>
 
 ---
+### 📄 Currículo & Apresentação
+
+| 🇧🇷 Versão em Português | 🇺🇸 English Version |
+| :---: | :---: |
+| <a href="./curriculo-pt.pdf" target="_blank" download><img src="https://img.shields.io/badge/Descarregar-PDF-238636?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="32" alt="Download PT" /></a> | <a href="./curriculo-en.pdf" target="_blank" download><img src="https://img.shields.io/badge/Download-PDF-1F6FEB?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="32" alt="Download EN" /></a> |
+
+---
 
 <h3 align="left">Vamos+conversar:</h3>
 <div>
