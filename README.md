@@ -45,32 +45,59 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
   <img width="12" />
   <img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" height="30" alt="copilot logo" />
   <img width="12" />
-  <img src="./blip.png" height="30" alt="blip logo" />
+  <img src=".github/workflows/blip.png" height="30" alt="blip logo" />
   <img width="12" />
 </div>
 
 ---
 
-<h3 align="left">Ferramentas:</h3>
+<h3 align="left">Vamos conversar:</h3>
 <div>
-  <!-- Discord -->
-<a href="https://discord.com/users/887414383381192745" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a> 
-<img width="12" />
-
-<!-- E-mail -->
-<a href="mailto:ma.devinf@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<img width="12" />
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/marcela-moura-125334179/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://discord.com/users/887414383381192745" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
+  </a>
+  <img width="12" />
+  <a href="mailto:ma.devinf@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/marcela-moura-125334179/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
 </div>
-<br />
+
+---
+
+<!-- Seção: Estatísticas -->
+<h3 align="left">📊 Estatísticas</h3>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=marcelamourahdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamourahdev&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Seção: Projetos em Destaque -->
+<h3 align="left">⭐ Projetos</h3>
+
+#### 🚀 [Projeto TCC API](https://github.com/marcelamourahdev/projetoTccAPI)
+> API REST para governança e arquitetura de serviços conversacionais.
+> 
+> ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+#### ⚙️ [API Node.js](https://github.com/marcelamourahdev/apiNode.js)
+> Microsserviços e automação backend com regras de negócio e integrações.
+> 
+> ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+> ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+---
 
 <br clear="both">
 
