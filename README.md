@@ -12,7 +12,8 @@
 Olá, me chamo Marcela, sou natural do Rio de Janeiro. Sou Engenheira de Software Pleno com experiência em sistemas e em arquitetura de serviços distribuídos utilizando JavaScript, Node.js e NestJS.<br /><br />
 Atuo do levantamento da necessidade ao deploy: microsserviços, APIs REST, automações e integrações que aplicam regra de negócio. Possuo experiência com banco de dados PostgreSQL, filas, webhooks e function calling, com acompanhamento de qualidade de código, observabilidade e entrega contínua seguindo os conhecimentos da metodologia ágil Scrum e Kanban.<br /><br />
 Também possuo ampla experiência no desenvolvimento de chatbots e assistentes virtuais inteligentes utilizando low code, desenhei e sustentei jornadas conversacionais em produção, alinhando escopo com cliente e operação, acompanhando seus indicadores pós entrega. Possuo ampla visão de negócios, sempre em contato direto com outros setores com finalidade no sucesso do cliente.<br /><br />
-Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
+Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.<br /><br />
+Atualmente busco uma nova posição no mercado e sigo aberta a um bate-papo. ^^
 </p>
 
 ---
@@ -89,11 +90,11 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
   <summary><b>📜 Ver Certificados Técnicos & Cursos Adicionais</b> (Clique para expandir)</summary>
   <br>
 
-  * 🤖 **Node.js: criando uma API Rest com Express e MongoDB** — *Alura/FIAP* • [Ver Credencial]([LINK_DO_CERTIFICADO](https://cursos.alura.com.br/user/ma-devinf/course/node-js-api-rest-express-mongodb/certificate))
-  * 🏛️ **Carreira Node.js: boas-vindas e primeiros passos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
-  * ⚙️ **HTTP: entendendo a web por baixo dos panos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
-  * 🗄️ **Git e GitHub: compartilhando e colaborando em projetos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
-  * 🤖 **JavaScript: aprendendo a programar** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+  * 🤖 **Node.js: criando uma API Rest com Express e MongoDB** — *Alura/FIAP* • [Ver Credencial](https://cursos.alura.com.br/certificate/5ae183ec-eff2-49d3-aad6-b1499215581a)
+  * 🏛️ **Carreira Node.js: boas-vindas e primeiros passos** — *Alura/FIAP* • [Ver Credencial](https://cursos.alura.com.br/certificate/c46b47e6-9e97-4128-8282-ea51858fdc9e)
+  * ⚙️ **HTTP: entendendo a web por baixo dos panos** — *Alura/FIAP* • [Ver Credencial](https://cursos.alura.com.br/certificate/933b7f23-391b-41dc-b2bb-50416fa97ff6)
+  * 🗄️ **Git e GitHub: compartilhando e colaborando em projetos** — *Alura/FIAP* • [Ver Credencial](https://cursos.alura.com.br/certificate/3f19f77f-9995-4c46-8792-c9cc79e818e7)
+  * 🤖 **JavaScript: aprendendo a programar** — *Alura/FIAP* • [Ver Credencial](https://cursos.alura.com.br/certificate/be2b18a9-261b-4f92-adf6-da557161c734)
 </details>
 
 ---
