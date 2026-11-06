@@ -89,7 +89,7 @@ Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.
   <summary><b>📜 Ver Certificados Técnicos & Cursos Adicionais</b> (Clique para expandir)</summary>
   <br>
 
-  * 🤖 **Node.js: criando uma API Rest com Express e MongoDB** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
+  * 🤖 **Node.js: criando uma API Rest com Express e MongoDB** — *Alura/FIAP* • [Ver Credencial]([LINK_DO_CERTIFICADO](https://cursos.alura.com.br/user/ma-devinf/course/node-js-api-rest-express-mongodb/certificate))
   * 🏛️ **Carreira Node.js: boas-vindas e primeiros passos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
   * ⚙️ **HTTP: entendendo a web por baixo dos panos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
   * 🗄️ **Git e GitHub: compartilhando e colaborando em projetos** — *Alura/FIAP* • [Ver Credencial](LINK_DO_CERTIFICADO)
