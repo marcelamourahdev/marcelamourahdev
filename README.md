@@ -125,10 +125,11 @@ Atualmente busco uma nova posição no mercado e sigo aberta a um bate-papo. ^^
 
 <!-- Seção: Estatísticas -->
 <h3 align="left">📊 Estatísticas</h3>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=marcelamourahdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=marcelamourahdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="145" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamourahdev&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamourahdev&theme=tokyonight&hide_border=true" height="145" alt="GitHub Streak" />
 </p>
 
 ---
