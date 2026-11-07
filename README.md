@@ -11,7 +11,7 @@
 <p align="left">
 Olá, me chamo Marcela, sou natural do Rio de Janeiro. Sou Engenheira de Software Pleno com experiência em sistemas e em arquitetura de serviços distribuídos utilizando JavaScript, Node.js e NestJS.<br /><br />
 Atuo do levantamento da necessidade ao deploy: microsserviços, APIs REST, automações e integrações que aplicam regra de negócio. Possuo experiência com banco de dados PostgreSQL, filas, webhooks e function calling, com acompanhamento de qualidade de código, observabilidade e entrega contínua seguindo os conhecimentos da metodologia ágil Scrum e Kanban.<br /><br />
-Também possuo ampla experiência no desenvolvimento de chatbots e assistentes virtuais inteligentes utilizando low code, desenhei e sustentei jornadas conversacionais em produção, alinhando escopo com cliente e operação, acompanhando seus indicadores pós entrega. Possuo ampla visão de negócios, sempre em contato direto com outros setores com finalidade no sucesso do cliente.<br /><br />
+Também possuo ampla experiência no desenvolvimento de chatbots e assistentes virtuais inteligentes utilizando low code na plataforma Blip, desenhei e sustentei jornadas conversacionais em produção, alinhando escopo com cliente e operação, acompanhando seus indicadores pós entrega. Possuo ampla visão de negócios, sempre em contato direto com outros setores com finalidade no sucesso do cliente.<br /><br />
 Amo estudar e aprender coisas novas e estou sempre em busca de novos desafios.<br /><br />
 Atualmente busco uma nova posição no mercado e sigo aberta a um bate-papo. ^^
 </p>
